@@ -1,6 +1,6 @@
 This repository contains a collection of labs from the Introduction to Artificial Intelligence module, completed during my third year of Computer Science at TU Dublin.
 
-### Lab Summaries
+## Lab Summaries
 
 **Lab 1: Introduction to Prolog**  
 - Installed SWI Prolog and explored basic concepts using sample knowledge bases.  
