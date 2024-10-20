@@ -1,30 +1,24 @@
-This repository contains a collection of labs from my Introduction to Artificial Intelligence module, completed during my third year of Computer Science at TU Dublin.
+This repository contains a collection of labs from the Introduction to Artificial Intelligence module, completed during my third year of Computer Science at TU Dublin.
 
-**Lab 1**  
-*Introduction to Prolog*:  
-Installed SWI Prolog and explored the basics using sample knowledge bases. Attempted introductory Prolog exercises.
+### Lab Summaries
 
-**Lab 2**  
-*Python and NumPy*:  
-Worked on tasks and exercises involving arrays and vectors in Python using a Jupyter Notebook. Focused on understanding matrices, vectors, and their differences in NumPy.
+**Lab 1: Introduction to Prolog**  
+- Installed SWI Prolog and worked through basic concepts using sample knowledge bases.  
+- Completed introductory exercises to familiarize with Prolog syntax and queries.
 
-*Prolog, Unification and Proof*:  
-Explored unification and proof concepts in Prolog and completed practical exercises.
+**Lab 2: Python, NumPy & Prolog**  
+- Explored arrays and vectors in Python using NumPy within a Jupyter Notebook.  
+- Focused on matrix operations and understanding vector differences.  
+- Introduced Prolog concepts such as unification and proof through practical exercises.
 
-**Lab 3**  
-*Python*:  
-Implemented a perceptron as a decision maker in Python, working through exercises in a Jupyter Notebook.
+**Lab 3: Perceptron in Python & Prolog Recursion**  
+- Implemented a perceptron as a decision maker using Python, working through tasks in a Jupyter Notebook.  
+- Solved the Monkey and Banana Problem in Prolog, focusing on state representation and recursion.
 
-*Prolog*:  
-Solved the Monkey and Banana Problem, focusing on state representation and transitions. Explored recursion through practical examples and completed related exercises.
+**Lab 4: Python Matrix Operations & Prolog State Transitions**  
+- Demonstrated matrix multiplication in Python and extended the perceptron work from Lab 3.  
+- Enhanced the Monkey & Banana Prolog solution by adding state transitions for the monkey to eat the banana.
 
-**Lab 4**  
-*Python*:  
-Worked on matrix multiplication exercises and demonstrated the perceptron tasks from Lab 3.
-
-*Prolog*:  
-Extended the Monkey & Banana problem by adding state-changing clauses for the monkey to eat the banana.
-
-**Lab 5**  
-*Prolog*:  
-Extended the Media Advisor expert system by adding new rules and knowledge to semantic networks. Added perceptron training formulas for emulating logical gates like AND, OR, and XOR in a spreadsheet.
+**Lab 5: Media Advisor Expert System & Perceptron Training**  
+- Extended the Media Advisor expert system in Prolog by adding additional rules and knowledge representation.  
+- Applied perceptron training formulas to simulate logical gates (AND, OR, XOR) using a spreadsheet model.
